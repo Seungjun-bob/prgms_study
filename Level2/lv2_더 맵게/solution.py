@@ -24,7 +24,7 @@ def solution(scoville, K):
 
 # 매번 정렬이 필요하다 -> heap으로 푸는 문제
 
-from heapq import heapif, heappush, heappop
+from heapq import heapify, heappush, heappop
 
 
 def solution(scoville, K):
